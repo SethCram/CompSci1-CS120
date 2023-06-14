@@ -1,0 +1,936 @@
+Script started on Sun 13 Oct 2019 02:04:16 PM PDT
+[?1034hbash-4.2$ ./a.out
+Pet's name? (One word)
+felix
+
+Your pet felix is 
+Happy: 50
+Hungry: 50
+Loyalty: 50
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+0
+Youre pet looks sad, but you leave anyways.
+Press enter to exit.
+
+bash-4.2$ ./a.out
+Pet's name? (One word)
+fred
+
+Your pet fred is 
+Happy: 50
+Hungry: 50
+Loyalty: 50
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+3
+
+You sit your pet down and have a deep talk.
+
+Your pet fred is 
+Happy: 60
+Hungry: 55
+Loyalty: 60
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 50
+Loyalty: 65
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 45
+Loyalty: 70
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 40
+Loyalty: 75
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 35
+Loyalty: 80
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 30
+Loyalty: 85
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 25
+Your pet appears well-fed!
+Loyalty: 90
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 20
+Your pet appears well-fed!
+Loyalty: 95
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 15
+Your pet appears well-fed!
+Loyalty: 100
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 10
+Your pet appears well-fed!
+Loyalty: 105
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 5
+Your pet appears well-fed!
+Loyalty: 110
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: 0
+Your pet appears well-fed!
+Loyalty: 115
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -5
+Your pet appears well-fed!
+Loyalty: 120
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -10
+Your pet appears well-fed!
+Loyalty: 125
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -15
+Your pet appears well-fed!
+Loyalty: 130
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -20
+Your pet appears well-fed!
+Loyalty: 135
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -25
+Your pet appears well-fed!
+Loyalty: 140
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -30
+Your pet appears well-fed!
+Loyalty: 145
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -35
+Your pet appears well-fed!
+Loyalty: 150
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -40
+Your pet appears well-fed!
+Loyalty: 155
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -45
+Your pet appears well-fed!
+Loyalty: 160
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -50
+Your pet appears well-fed!
+Loyalty: 165
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -55
+Your pet appears well-fed!
+Loyalty: 170
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -60
+Your pet appears well-fed!
+Loyalty: 175
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -65
+Your pet appears well-fed!
+Loyalty: 180
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -70
+Your pet appears well-fed!
+Loyalty: 185
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -75
+Your pet appears well-fed!
+Loyalty: 190
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -80
+Your pet appears well-fed!
+Loyalty: 195
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -85
+Your pet appears well-fed!
+Loyalty: 200
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -90
+Your pet appears well-fed!
+Loyalty: 205
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -95
+Your pet appears well-fed!
+Loyalty: 210
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -100
+Your pet appears well-fed!
+Loyalty: 215
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You spill the food on the floor, but your pet doesn't seem to care
+MMM, Yummy!
+
+Your pet fred is 
+Happy: 60
+Hungry: -105
+Your pet appears well-fed!
+Loyalty: 220
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2 0
+Youre pet looks sad, but you leave anyways.
+Press enter to exit.
+
+bash-4.2$ ./a.out
+Pet's name? (One word)
+Creg
+
+Your pet Creg is 
+Happy: 50
+Hungry: 50
+Loyalty: 50
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 54
+Hungry: 51
+Loyalty: 45
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 58
+Hungry: 52
+Loyalty: 40
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 62
+Hungry: 53
+Loyalty: 35
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 66
+Hungry: 54
+Loyalty: 30
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 70
+Hungry: 55
+Loyalty: 25
+Your pet keeps its distance, and doesn't always come when called
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 74
+Your pet's eyes light up when it sees you, and it starts getting excited
+Hungry: 56
+Loyalty: 20
+Your pet keeps its distance, and doesn't always come when called
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 78
+Your pet's eyes light up when it sees you, and it starts getting excited
+Hungry: 57
+Loyalty: 15
+Your pet keeps its distance, and doesn't always come when called
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 82
+Your pet's eyes light up when it sees you, and it starts getting excited
+Hungry: 58
+Loyalty: 10
+Your pet keeps its distance, and doesn't always come when called
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet Creg is 
+Happy: 86
+Your pet's eyes light up when it sees you, and it starts getting excited
+Hungry: 59
+Loyalty: 5
+Your pet keeps its distance, and doesn't always come when called
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+2
+
+Your pet ran away.
+Press enter to exit.
+
+bash-4.2$ ./a.out
+Pet's name? (One word)
+dude
+
+Your pet dude is 
+Happy: 50
+Hungry: 50
+Loyalty: 50
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+1
+
+Your pet dude is 
+Happy: 43
+Hungry: 55
+Loyalty: 52
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+1
+
+Your pet dude is 
+Happy: 36
+Hungry: 60
+Loyalty: 54
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+1
+
+Your pet dude is 
+Happy: 29
+Your pet seems depressed
+Hungry: 65
+Loyalty: 56
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+1
+
+Your pet dude is 
+Happy: 22
+Your pet seems depressed
+Hungry: 70
+Loyalty: 58
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+1
+What should we play?
+Fetch (1) 
+Roll over (2) 
+1
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 75
+Your pet looks really hungry
+Loyalty: 60
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 70
+Loyalty: 65
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 65
+Loyalty: 70
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 60
+Loyalty: 75
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 55
+Loyalty: 80
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 50
+Loyalty: 85
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 45
+Loyalty: 90
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 40
+Loyalty: 95
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You throw some of the food to your pet, and it catches the food with ease
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 35
+Loyalty: 100
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+Your pet starts jumping around in excitement
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 30
+Loyalty: 105
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+2
+You balance the food bowl on your head. Your pet just looks at you expectantly
+MMM, Yummy!
+
+Your pet dude is 
+Happy: 15
+Your pet seems depressed
+Hungry: 25
+Your pet appears well-fed!
+Loyalty: 110
+Your pet stays close to you, and looks as if it wouldn't leave your side for the world
+What would you like to do with your pet?
+Leave Pet (0) 
+Play (1) 
+Feed (2)
+Talk (3)
+0
+Youre pet looks sad, but you leave anyways.
+Press enter to exit.
+
+bash-4.2$ exit
+exit
+
+Script done on Sun 13 Oct 2019 02:09:49 PM PDT

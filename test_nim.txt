@@ -1,0 +1,158 @@
+Script started on Fri 20 Sep 2019 03:09:59 PM PDT
+[?1034hbash-4.2$ exit./a.out[3Pexit./a.out
+Welcome to Seth's adaption of the game of nim! It's a player vs computer based game that tests your prediction skills.
+It's turn based and gives both you and the computer a chance to take a number of objects from the total. Good luck!
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+50
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+1
+What's the maximum number of objects someone can take in a single turn?
+10
+There are 50 objects total, don't be the person who takes the last one...
+Player 1 enter your move (1-10)
+10
+This many objects remain: 
+**********
+**********
+**********
+**********
+
+Computer removed 4
+This many objects remain: 
+**********
+**********
+**********
+******
+Player 1 enter your move (1-10)
+10
+This many objects remain: 
+**********
+**********
+******
+With so many objects left, it's anyone's game!
+Computer removed 7
+This many objects remain: 
+**********
+*********
+Player 1 enter your move (1-10)
+0
+Illegal move. 
+Enter a new move (1-10): 11
+Illegal move. 
+Enter a new move (1-10): 3
+This many objects remain: 
+**********
+******
+Computer removed 4
+This many objects remain: 
+**********
+**
+Player 1 enter your move (1-10)
+5
+This many objects remain: 
+*******
+With so few objects left, our victor shall emerge soon!
+Computer removed 6
+This many objects remain: 
+*
+Player 1 enter your move (1-10)
+1
+This many objects remain: 
+
+Player 0 wins!!! They deserve a cookie.
+Player 1 loses!!! Give Player 0 a cookie this instant.
+Would you like to continue playing Seth's adaption of nim? (y for yes)
+y
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+5
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+5
+What's the maximum number of objects someone can take in a single turn?
+2
+The minimum can't be bigger than the maximum
+bash-4.2$ ./a.out[3Pexit./a.out
+Welcome to Seth's adaption of the game of nim! It's a player vs computer based game that tests your prediction skills.
+It's turn based and gives both you and the computer a chance to take a number of objects from the total. Good luck!
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+40
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+4
+What's the maximum number of objects someone can take in a single turn?
+50
+There are 40 objects total, don't be the person who takes the last one...
+Player 1 enter your move (4-50)
+49
+Illegal move. 
+Enter a new move (4-50): 39
+This many objects remain: 
+*
+Y'all both win! Nobody took the last object. Congratulations player 1 and player 0!
+bash-4.2$ ./a.out[3Pexit./a.out
+Welcome to Seth's adaption of the game of nim! It's a player vs computer based game that tests your prediction skills.
+It's turn based and gives both you and the computer a chance to take a number of objects from the total. Good luck!
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+3
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+1
+What's the maximum number of objects someone can take in a single turn?
+2
+There are 3 objects total, don't be the person who takes the last one...
+Player 1 enter your move (1-2)
+1
+This many objects remain: 
+**
+With so few objects left, our victor shall emerge soon!
+Computer removed 1
+This many objects remain: 
+*
+Player 1 enter your move (1-2)
+1
+This many objects remain: 
+
+Player 0 wins!!! They deserve a cookie.
+Player 1 loses!!! Give Player 0 a cookie this instant.
+Would you like to continue playing Seth's adaption of nim? (y for yes)
+y
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+3 31
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+1
+What's the maximum number of objects someone can take in a single turn?
+10
+There are 31 objects total, don't be the person who takes the last one...
+Computer removed 4
+This many objects remain: 
+**********
+**********
+*******
+With so many objects left, it's anyone's game!
+Player 1 enter your move (1-10)
+10
+This many objects remain: 
+**********
+*******
+Computer removed 5
+This many objects remain: 
+**********
+**
+Player 1 enter your move (1-10)
+8
+This many objects remain: 
+****
+With so few objects left, our victor shall emerge soon!
+Computer removed 3
+This many objects remain: 
+*
+Player 1 enter your move (1-10)
+1
+This many objects remain: 
+
+Player 0 wins!!! They deserve a cookie.
+Player 1 loses!!! Give Player 0 a cookie this instant.
+Would you like to continue playing Seth's adaption of nim? (y for yes)
+n
+Bye bye ^.^
+bash-4.2$ ./a.out[Kexit
+exit
+
+Script done on Fri 20 Sep 2019 03:12:42 PM PDT

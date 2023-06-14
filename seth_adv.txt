@@ -1,0 +1,344 @@
+Script started on Mon 30 Sep 2019 04:44:54 PM PDT
+[?1034hbash-4.2$ ./a.out
+
+You feel the lock finally give under your pick.
+Haunted house here you come!
+You're loudness meter is at: 0
+You're in front of the door, the entire house only illuminated by the light of the moon
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+5
+You try the handle, but the door won't budge
+You get frustrated and slam ur fist against the door
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+1
+You're loudness meter is at: 1
+You enter the room, look around, and see an array of knives as you enter the old, victorianesque kitchen
+You also see dead flowers on the window sill
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+1
+Why would you need a knife right now?
+You decide to keep looking around.
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+2
+On your walk over you slip on a black doll and slam on your bum
+ouch.....
+You decide the flower isn't worth the pain for now.
+You decide to keep looking around.
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+3
+You're loudness meter is at: 2
+You're in front of the door, the entire house only illuminated by the light of the moon
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+1
+You're loudness meter is at: 2
+You enter the room, look around, and see an array of knives as you enter the old, victorianesque kitchen
+You also see dead flowers on the window sill
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+2
+You make it too the flowers without stepping on another god forsaken toy
+It smells like........dried blood...
+You decide to keep looking around.
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+5
+You stare out the window towards the stone path you previously walked down...wait, where'd the path go?
+You decide to keep looking around.
+What will you do?
+Take a knife(1)
+Pick a dead flower(2)
+Go to the door(3)
+Head north to the bedroom(4)
+Peer out the window(5)
+4
+You're loudness meter is at: 2
+A big king sized bed with black curtains greats your eyes as you enter
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+1
+You find a flashlight!
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+1
+You drag your hand around in the drawer, but find nothing.
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+2
+You find multiple sets of all black clothing
+They looks brand new, but nobody's lived in this house for as long as you've been alive...
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+3
+You peer out the window to find the tall silhouette of a man in the distance
+You can't make out any of his features, but you feel like he's looking right at you
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+4
+Who knows the last time that bed was cleaned?
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+5
+You're loudness meter is at: 2
+You have a flashlight.
+It feels almost as if your being watched.
+Enter the bedroom(1), living room(2), or go to the door(3)?
+2
+You're loudness meter is at: 2
+You have a flashlight.
+This room seems much darker than the rest, despite the windows in the room.
+It's almost as if the light doesn't dare touch this part of the house...
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+1
+The thing is covered in soot and nearly no light reaches here
+You flip on the flashlight but it doesn't have any batteries in it...
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+2
+You throw the cushions to the ground and find a battery charger!
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+2
+The pick up one of the cushions you threw and try and balance it on your head.
+Probably not the best use of your time...
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+3
+It's way heavier than you thought!
+You do a few practice swings with the thing and it flies out of your hands making a loud crashing noise
+You decide the way of the sword isn't for you.
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+4
+You're loudness meter is at: 3
+You have a battery charger.
+You have a flashlight.
+............
+............
+You hear something slam into the walls above you.
+It sounds enormous and you can already hear it panting in a frenzy
+It sounds like it's headed for the stairs and you don't want to find out what it is so you try and break a window.
+You feel a sharp pain in your legs as you slam to the ground and are dragged upstairs by your ankle...............
+
+
+
+YOU DIED
+
+
+bash-4.2$ ./a.out
+
+You feel the lock finally give under your pick.
+Haunted house here you come!
+You're loudness meter is at: 0
+You're in front of the door, the entire house only illuminated by the light of the moon
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+2
+You're loudness meter is at: 0
+The moonlight doesn't reach in here
+Everything is pitch black
+Search the room anyways(1)
+Go back to the door(2)
+Look better(3)
+1
+You run your hands along the wall looking for a light switch and accidently knock a vase over
+The moonlight doesn't reach in here
+Everything is pitch black
+Search the room anyways(1)
+Go back to the door(2)
+Look better(3)
+1
+You find a light switch, but it doesn't work
+The moonlight doesn't reach in here
+Everything is pitch black
+Search the room anyways(1)
+Go back to the door(2)
+Look better(3)
+3
+You squint your eyes and are just able to make out the glimmer of aluminum
+You reach out and find a double A batttery!
+The moonlight doesn't reach in here
+Everything is pitch black
+Search the room anyways(1)
+Go back to the door(2)
+Look better(3)
+3
+You squint your eyes, but see nothing
+The moonlight doesn't reach in here
+Everything is pitch black
+Search the room anyways(1)
+Go back to the door(2)
+Look better(3)
+2
+You're loudness meter is at: 1
+You have a battery.
+You're in front of the door, the entire house only illuminated by the light of the moon
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+3
+You approach the stairs and get a strangely eerie feeling as the hairs on the back of your neck stand straight up.
+You decide to save the stairs for later.
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+4
+You're loudness meter is at: 1
+You have a battery.
+It feels almost as if your being watched.
+Enter the bedroom(1), living room(2), or go to the door(3)?
+5
+As you stand there pondering the meaning of life, you suddenly feel off balance and slam into the wall
+Enter the bedroom(1), living room(2), or go to the door(3)?
+1
+You're loudness meter is at: 2
+You have a battery.
+A big king sized bed with black curtains greats your eyes as you enter
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+1
+You find a flashlight!
+What will you do?
+
+Investigate the nightstand(1)
+Look in the dresser(2)
+Take a peak out the window(3)
+Climb in bed(4)
+Go to the hallway(5)
+Enter the kitchen(6)
+5
+You're loudness meter is at: 2
+You have a battery.
+You have a flashlight.
+It feels almost as if your being watched.
+Enter the bedroom(1), living room(2), or go to the door(3)?
+2
+You're loudness meter is at: 2
+You have a battery.
+You have a flashlight.
+This room seems much darker than the rest, despite the windows in the room.
+It's almost as if the light doesn't dare touch this part of the house...
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+1
+The thing is covered in soot and nearly no light reaches here
+You put your battery into the flashlight but it looks like the battery is dead.
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+2
+You throw the cushions to the ground and find a battery charger!
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+1
+The thing is covered in soot and nearly no light reaches here
+You charge the battery and pop it into the flashlight
+
+You flip on your flashlight and begin investigating
+After some poking around you decide to move the stand the firewood goes on and see a latch!
+You heave up on the latch as you hear an ungodly scream come from the top floor.
+You start panicking as your heart begins thundering in your chest
+You're in danger
+You decide not to stick around and find out what made that noise
+You jump down the open trapdoor and find tunnels beneath the house
+You crawl for what seems like miles but finally end up above ground, directly in front of the old house.
+You turn on your heels and decide to take up a new hobby that doesn't involve screeching monsters
+bash-4.2$ ./a.out[Kexit
+exit
+
+Script done on Mon 30 Sep 2019 04:48:23 PM PDT

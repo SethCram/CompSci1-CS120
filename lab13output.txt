@@ -1,0 +1,10 @@
+Script started on Tue 10 Dec 2019 02:23:32 PM PST
+[?1034hbash-4.2$ ./a.out
+The array values are:
+83 86 77 15 93 35 86 92 49 21 
+The average value is: 63.7
+The sum of the values is: 637
+bash-4.2$ exit
+exit
+
+Script done on Tue 10 Dec 2019 02:23:42 PM PST

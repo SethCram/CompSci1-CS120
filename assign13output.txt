@@ -1,0 +1,30 @@
+Script started on Mon 09 Dec 2019 03:43:13 PM PST
+[?1034hbash-4.2$ ./f_teller 5 5 5 5
+Your secret, lucky number is 6 
+Today you should embrace technology. 
+bash-4.2$ ./f_teller 5 5 5 5
+Your secret, lucky number is 4 
+Today you should embrace technology. 
+bash-4.2$ ./f_teller 5 5 5 5[K10
+Your secret, lucky number is 6 
+Today you should embrace technology. 
+bash-4.2$ ./f_teller 5 5 5 10[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./a[Kcalc 5 + 5
+5 + 5 = 10 
+bash-4.2$ ./calc 5 + 5[1P 5- 5
+5 - 5 = 0 
+bash-4.2$ ./calc 5 - 5[1P 5x 5
+5 x 5 = 25 
+bash-4.2$ ./calc 5 x 5[1P 5% 5
+5 % 5 = 0 
+bash-4.2$ ./calc 5 % 5[C[C[K0
+Can't take the modulus of zero my dude/dudette 
+bash-4.2$ ./calc 5 % 0[1P 0/ 0
+Can't divide by zero my dude/dudette 
+bash-4.2$ ./calc 5 / 0[K10
+5 / 10 = 0.5 
+bash-4.2$ ./calc 5 / 10[K[K7
+5 / 7 = 0.714286 
+bash-4.2$ exit
+exit
+
+Script done on Mon 09 Dec 2019 03:44:10 PM PST

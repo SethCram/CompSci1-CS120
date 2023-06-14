@@ -1,0 +1,42 @@
+Script started on Fri 22 Nov 2019 12:09:41 PM PST
+[?1034hbash-4.2$ ./a.out
+List of Members: 
+Alan magiccarpet P1
+Anne leaf P2
+Fred sword P3
+Sally whip P4
+Number of nodes: 4
+How many additonal Bob's do you want to add to the list? 
+2
+List of Members: 
+Bob turkey P100
+Bob turkey P100
+Alan magiccarpet P1
+Anne leaf P2
+Fred sword P3
+Sally whip P4
+Number of nodes: 6
+Add another member?
+yes
+List of Members: 
+Bob turkey P100
+Bob turkey P100
+Alan magiccarpet P1
+Anne leaf P2
+Fred sword P3
+Sally whip P4
+Henry handcanon P5
+Number of nodes: 7
+Delete them all?
+yes
+Lab member, realname********Henry********deleted
+Lab member, realname********Sally********deleted
+Lab member, realname********Fred********deleted
+Lab member, realname********Anne********deleted
+Lab member, realname********Alan********deleted
+Lab member, realname********Bob********deleted
+Lab member, realname********Bob********deleted
+bash-4.2$ exit
+exit
+
+Script done on Fri 22 Nov 2019 12:09:57 PM PST

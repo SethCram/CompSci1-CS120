@@ -1,0 +1,38 @@
+Script started on Tue 12 Nov 2019 05:24:06 PM PST
+[?1034hbash-4.2$ ./a.out
+Regular List: 
+Alan
+Anne
+Fred
+Sally
+Reverse List: 
+Sally
+Fred
+Anne
+Alan
+How many additonal Bob's do you want to add to the list? 
+5
+Regular List: 
+Bob
+Bob
+Bob
+Bob
+Bob
+Alan
+Anne
+Fred
+Sally
+Reverse List: 
+Sally
+Fred
+Anne
+Alan
+Bob
+Bob
+Bob
+Bob
+Bob
+bash-4.2$ ./[K[Kexit
+exit
+
+Script done on Tue 12 Nov 2019 05:24:30 PM PST

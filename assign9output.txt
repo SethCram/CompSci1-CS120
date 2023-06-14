@@ -1,0 +1,1229 @@
+Script started on Fri 01 Nov 2019 06:20:58 PM PDT
+[?1034hbash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+  You  misstep and fall to your death. But then just as you touch the magma, you land on solid ground. You feel a little lighter now...
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+ You see a swirling blue portal appear as you land on the platform. You launch yourself through and plop out on the other side.
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 dove to even more than a couple platforms. 
+
+
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X                       @              ?        1   Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hopped to a platform. 
+
+
+
+        X                       @              ?        1   Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                       @              ?           1Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+1
+
+Player 1 yells that they have the high ground! They whip around and rain rocks from the heavens until the other player plunges into the magma below.
+As player 1 approaches the giant chest on the last floating platform...
+A floating message appears and displayes 'Congratulations! You've taken anothers life.'
+Launched from the platform, another adventurer falls to their death, as a loud cackle is heard from the victory platform...
+
+
+
+YOU DIED
+
+
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hopped to a platform. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+     2  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+     2  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X                       @  1           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 dove to even more than a couple platforms. 
+
+
+
+        X                       @  1           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @           2  ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X                       @        1     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @           2  ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 leapt a couple platforms. 
+
+
+
+        X                       @        1     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @              ?     1      Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hopped to a platform. 
+
+
+
+        X                       @              ?     1      Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?     2      Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X                       @              ?           1Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?     2      Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+2
+You look back at the armour clad warrior fearful of what you decide.
+You search around inside the chest and find something that looks like a grappling hook gun.
+You try and shoot it into the floating rock the other adventurer stands on but end up skewering him with it...
+His lifeless corpse propels towards you and you don't dodge in time.
+Soon enough, the two fall together into the pit.
+
+
+
+YOU DIED
+
+
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+  You land on the X-marked platform and the X begins glowing as it springs you to the next platform.
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+  You  misstep and fall to your death. But then just as you touch the magma, you land on solid ground. You feel a little lighter now...
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+ You see a swirling blue portal appear as you land on the platform. You launch yourself through and plop out on the other side.
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?           2Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+3
+You take out your entire collection of swords you've used on this character.
+You like to keep them as momentos of your progress and the hardships you've overcome.
+You start practicing blade art in wide arcs, dancing around, and suddenly blood explodes from behind the chest...
+You grab the now visible illusionist who played this foul trick and make him release you and the other adventurer from this nightmare.
+Congratulations! Both players survived!
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 dove to even more than a couple platforms. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                 2     @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                       @  1           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                 2     @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 dove to even more than a couple platforms. 
+
+
+
+        X                       @  1           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X                       @              ?        1   Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                       @              ?        1   Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?           2Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+0
+You swan dive into the magma for no aparrent reason...................nice
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hopped to a platform. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+     2  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+     2  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+
+        X           1           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X           2           @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hopped to a platform. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X                       @     1        ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @     1        ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+ You're asked what's the air-speed velocity of an unladen swallow and get it wrong. The platform flings you back. 
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @        2     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @              ?           1Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @        2     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+3
+You take out your entire collection of swords you've used on this character.
+You like to keep them as momentos of your progress and the hardships you've overcome.
+You start practicing blade art in wide arcs, dancing around, and suddenly blood explodes from behind the chest...
+You grab the now visible illusionist who played this foul trick and make him release you and the other adventurer from this nightmare.
+Congratulations! Both players survived!
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+  You  misstep and fall to your death. But then just as you touch the magma, you land on solid ground. You feel a little lighter now...
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                 1     @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 dove to even more than a couple platforms. 
+
+ You see a swirling blue portal appear as you land on the platform. You launch yourself through and plop out on the other side.
+
+        X                 1     @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?  2         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+
+
+        X                    1  @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @              ?           2Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+
+1
+
+Player 2 yells that they have the high ground! They whip around and rain rocks from the heavens until the other player plunges into the magma below.
+As player 2 approaches the giant chest on the last floating platform...
+A floating message appears and displayes 'Congratulations! You've taken anothers life.'
+Launched from the platform, another adventurer falls to their death, as a loud cackle is heard from the victory platform...
+
+
+
+YOU DIED
+
+
+bash-4.2$ exit
+exit
+
+Script done on Fri 01 Nov 2019 06:23:16 PM PDT
+  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 dove to even more than a couple platforms. 
+
+
+
+        X                       @     1        ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @     1        ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @  2           ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+ You're asked what's the air-speed velocity of an unladen swallow and get it wrong. The platform flings you back. 
+
+        X                       @              ?  1         Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @        2     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hurtled a pretty great number of platforms. 
+
+
+
+        X                       @              ?           1Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X                       @        2     ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+What will you do champion?
+Secure victory (1), help your opponent (2), or play with your sword (3)
+3
+You take out your entire collection of swords you've used on this character.
+You like to keep them as momentos of your progress and the hardships you've overcome.
+You start practicing blade art in wide arcs, dancing around, and suddenly blood explodes from behind the chest...
+You grab the now visible illusionist who played this foul trick and make him release you and the other adventurer from this nightmare.
+Congratulations! Both players survived!
+bash-4.2$ ./a.out
+Sword drawn and ready for whatever happens next, you push on.
+So far its been a cake walk and you start to consider this area too weak for you.
+Type enter to walk through the giant double doors.
+
+Suddenly the floor falls out beneath you and you roll to the nearest rock that isn't sinking.
+High above the falling landscape, you look down and discover an ocean of magma.
+You look around and realize there's another player trapped here, looking just as surprised.
+The door falls into the ocean...
+...Its a race then.
+
+  1     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 hopped to a platform. 
+
+
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+  2     X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+  You  misstep and fall to your death. But then just as you touch the magma, you land on solid ground. You feel a little lighter now...
+
+     1  X                       @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 leapt a couple platforms. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X  2                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 2 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 2 hurtled a pretty great number of platforms. 
+
+
+
+        X  1                    @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+        X              2        @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Player 1 has 4 limbs left.
+Player 2 has 4 limbs left.
+
+
+
+Player 1 type enter to roll, leap, dive, jump, hurtle, or somersault.
+
+Player 1 somersaulted and springboarded like an olypmic acrobat across an insane number of platforms. 
+
+
+
+        X                 1     @              ?            Loot
+  -  -  -  -        -  -  -  -  -  -  -  -  -  - 

@@ -1,0 +1,19 @@
+Script started on Tue 01 Oct 2019 02:16:48 PM PDT
+[?1034hbash-4.2$ g++ lab5_ex.cpp[C[C[C[C[C[C[C[C[C[C[1@nano[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd labsnano seth_adventure.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pnim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Knano seth_adventure.cpp [C[C[C[C[C[C[C[C[C[C[14Pcd assignsnano seth_adventure.cpp [C[C[C[C[C[C[C[C[C[Cls[Knano nim.cpp [11@seth_adventure[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd labs[Kls[Knano lab5_ex.cpp[C[C[C[C[C[C[C[C[C[C[1Pg++[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./a.out
+Q1: No, because you can only return a single value from a single function.
+     Attempting this with a void function won't allow the programmer to
+     change the actual values in main.
+Q2: The value of x changes in the function, but since it's labeled as void
+     it can't return the value to main so it prints the same value of x (7).
+Q3: The value of x changes in the function and in main, evident by how the
+     code prints 14.
+Q4: Function1() passes just an integer and variable as the argument, while
+     function2() passes an integer with a & in front of the integer's
+     variable. Function2() effectively takes a variable onto the 
+     function, while function1() only takes a variable's value.   
+
+20 7
+bash-4.2$ exit
+exit
+
+Script done on Tue 01 Oct 2019 02:17:01 PM PDT

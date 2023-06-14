@@ -1,0 +1,141 @@
+Script started on Wed 02 Oct 2019 02:09:21 PM PDT
+[?1034hbash-4.2$ ./a.out
+
+You feel the lock finally give under your pick.
+Haunted house here you come!
+You're in front of the door, the entire house only illuminated by the light of the moon
+You're loudness meter is at: 0
+You see a kitchen(1) to your east, a closet(2) to your west, and a set of stairs(3) before you, with a hallway(4) going past them.
+Outside(5) is just a couple steps away
+Which way do you go?
+4
+It feels almost as if your being watched.
+You're loudness meter is at: 0
+Enter the bedroom(1), living room(2), or go to the front door(3)?
+4
+As you stand there contemplating the meaning of life, you suddenly feel off balance and slam into the wall
+Please pick a number from (1)-(3)
+2
+This room seems much darker than the rest, despite the windows in the room.
+It's almost as if the light doesn't dare touch this part of the house...
+You're loudness meter is at: 1
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+2
+You start sifting between the cushions and find an old handheld gaming unit.
+You feel nostalgic as the sytem boots up and a game comes on the screen...
+
+
+
+
+Welcome to Seth's adaption of the game of nim! It's a player vs computer based game that tests your prediction skills.
+It's turn based and gives both you and the computer a chance to take a number of objects from the total. Good luck!
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+20
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+1
+What's the maximum number of objects someone can take in a single turn?
+5
+There are 20 objects total, don't be the person who takes the last one...
+Player 1 enter your move (1-5)
+5
+This many objects remain: 
+**********
+*****
+Computer removed 4
+This many objects remain: 
+**********
+*
+Player 1 enter your move (1-5)
+5
+This many objects remain: 
+******
+With so few objects left, our victor shall emerge soon!
+Computer removed 2
+This many objects remain: 
+****
+With so few objects left, our victor shall emerge soon!
+Player 1 enter your move (1-5)
+4
+This many objects remain: 
+
+Player 1 loses.
+Congratulations Computer!
+How many objects would you like to play with as your total? (Enter whole numbers only) 
+20
+What's the minimum number of objects someone can take in a single turn? (1 is recommended)
+1
+What's the maximum number of objects someone can take in a single turn?
+5
+There are 20 objects total, don't be the person who takes the last one...
+Computer removed 3
+This many objects remain: 
+**********
+*******
+Player 1 enter your move (1-5)
+5
+This many objects remain: 
+**********
+**
+Computer removed 1
+This many objects remain: 
+**********
+*
+Player 1 enter your move (1-5)
+5
+This many objects remain: 
+******
+With so few objects left, our victor shall emerge soon!
+Computer removed 4
+This many objects remain: 
+**
+With so few objects left, our victor shall emerge soon!
+Player 1 enter your move (1-5)
+1
+This many objects remain: 
+*
+Computer removed 1
+This many objects remain: 
+
+Computer loses.
+Congratulations Player 1!
+
+
+
+
+
+That was fun, but probably not the best use of your time...so you keep going through the couch.
+You throw the last cushion to the ground and find a battery charger!
+You're loudness meter is at: 1
+You have a battery charger.
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+2
+The pick up one of the cushions you threw and try and balance it on your head.
+Probably not the best use of your time...
+You're loudness meter is at: 1
+You have a battery charger.
+What do you do?
+Investigate the fireplace(1)
+Search the couch(2)
+Take a sword off the wall(3)
+Go back into the hallway(4)
+0
+As you stand there contemplating the meaning of life, you suddenly feel off balance and slam into the wall
+Please pick a number from (1)-(4)
+4
+It feels almost as if your being watched.
+You're loudness meter is at: 2
+You have a battery charger.
+Enter the bedroom(1), living room(2), or go to the front door(3)?
+^C
+bash-4.2$ exit
+exit
+
+Script done on Wed 02 Oct 2019 02:10:53 PM PDT

@@ -1,0 +1,51 @@
+Script started on Fri 18 Oct 2019 06:23:37 PM PDT
+[?1034hbash-4.2$ ./a.out
+numerator: 
+5
+denominator: 
+7
+Your improper fraction is: 5/7
+Your mixed number is: 0 5/7
+Your decimal value is: 0.714286
+numerator: 
+0
+denominator: 
+4
+Your improper fraction is: 0/4
+Fraction addition = 20/28
+The 1st fraction divided by the second = 20/28
+The 1st fraction divided by the second = 1/1
+The 1st fraction multiplied by the second = 1/1
+numerator: 
+3
+denominator: 
+0
+Your improper fraction is: 0/3
+Fraction addition = 15/21
+bash-4.2$ ./a.out
+numerator: 
+1
+denominator: 
+-7
+Your improper fraction is: 1/-7
+Your mixed number is: 0 1/-7
+Your decimal value is: -0.142857
+numerator: 
+6
+denominator: 
+2
+Your improper fraction is: 6/2
+Fraction addition = -40/-14
+The 1st fraction divided by the second = 44/-14
+The 1st fraction divided by the second = 2/-42
+The 1st fraction multiplied by the second = 6/-14
+numerator: 
+5
+denominator: 
+8
+Your improper fraction is: 5/8
+Fraction addition = -27/-56
+bash-4.2$ ./a.outemacs rect_lab6.cpp [C[C[C[C[C[C[C[C[C[C[13P./a.out[Kexit
+exit
+
+Script done on Fri 18 Oct 2019 06:24:38 PM PDT

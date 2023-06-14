@@ -1,0 +1,53 @@
+Script started on Thu 12 Sep 2019 11:18:34 AM PDT
+[?1034hbash-4.2$ g++ calculator.cpp [C[C[C[C[C[C[C[C[C[C[9Pcd assignspwd[Kg++ calculator.cpp[C[C[C[C[C[C[C[C[C[Cnano fortuneteller.cpp [C[C[C[C[C[C[C[C[C[Cls[Knano fortuneteller.cpp [C[C[C[C[C[C[C[C[C[C[5Pg++ calculator.cpp[C[C[C[C[C[C[C[C[C[Cpwd[Kcd assignsg++ calculator.cpp [C[C[C[C[C[C[C[C[C[C[K./a.out
+Enter your first number: 5
+Enter your second number: 5
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 1
+Your answer is: 25
+bash-4.2$ ./a.out
+Enter your first number: 5
+Enter your second number: 5
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 2
+Your answer is: 1
+bash-4.2$ ./a.out
+Enter your first number: 5
+Enter your second number: 0
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 2
+Warning: You can't divide by zero in this program bruv
+bash-4.2$ ./a.out
+Enter your first number: 7
+Enter your second number: 7
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 3
+Your answer is: 14
+bash-4.2$ ./a.out
+Enter your first number: 8
+Enter your second number: 9
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 4
+Your answer is: -1
+bash-4.2$ exi[K[K[K./a.out
+Enter your first number: 5
+Enter your second number: 5
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 0
+Please, select one of the 4 operations or leave.
+bash-4.2$ ./a.out
+Enter your first number: 9
+Enter your second number: 20
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 6
+Please, select one of the 4 operations or leave.
+bash-4.2$ ./a.out
+Enter your first number: 5.8
+Enter your second number: 3.9
+What operation would you like to perform?
+Type 1 to multiply, 2 to divide, 3 to add and 4 to subtract: 1
+Your answer is: 22.62
+bash-4.2$ exit
+exit
+
+Script done on Thu 12 Sep 2019 11:20:20 AM PDT

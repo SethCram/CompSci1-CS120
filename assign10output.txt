@@ -1,0 +1,172 @@
+Script started on Thu 07 Nov 2019 10:28:25 PM PST
+./a.out
+Welcome to dodge the ghost!
+You win when you've dug up every grave that doesn't contain a ghost.
+Good luck!
+You'll need it...
+(Press enter to continue)
+
+// test bounds for a bit
+How many graves wide should the graveyard be?(2-10)
+-1
+How many graves long should the graveyard be?(2-10)
+5
+Impossible graveyard try again
+How many graves wide should the graveyard be?(2-10)
+11
+How many graves long should the graveyard be?(2-10)
+5
+Impossible graveyard try again
+How many graves wide should the graveyard be?(2-10)
+5
+How many graves long should the graveyard be?(2-10)
+-1
+Impossible graveyard try again
+How many graves wide should the graveyard be?(2-10)
+5
+How many graves long should the graveyard be?(2-10)
+15
+Impossible graveyard try again
+How many graves wide should the graveyard be?(2-10)
+5
+How many graves long should the graveyard be?(2-10)
+5
+How many ghosts do you want in the graveyard?
+0
+You can't have negative or zero ghosts dude/dudette.
+How many ghosts do you want in the graveyard?
+-1
+You can't have negative or zero ghosts dude/dudette.
+How many ghosts do you want in the graveyard?
+24
+You can only find ghosts in graves. Everyone knows they don't ACTUALLY haunt people.
+So try again, but this time give yourself a fighting chance and atleast leave 2 or more graves unoccupied.
+How many ghosts do you want in the graveyard?
+25
+You can only find ghosts in graves. Everyone knows they don't ACTUALLY haunt people.
+So try again, but this time give yourself a fighting chance and atleast leave 2 or more graves unoccupied.
+How many ghosts do you want in the graveyard?
+23
+
+
+
+
+
+// only displayed to make it easier for programmer to test win scenarios
+1 1 1 1 1 
+1 1 1 1 1 
+0 0 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+23
++ + + + + 
++ + + + + 
++ + + + + 
++ + + + + 
++ + + + + 
+
+// test bounds for a bit again
+X:(0-4)
+0
+Y:(0-4)
+-1
+Enter a valid value or don't play the game.
+X:(0-4)
+4
+Y:(0-4)
+5
+Enter a valid value or don't play the game.
+X:(0-4)
+-3
+Y:(0-4)
+3
+Enter a valid value or don't play the game.
+X:(0-4)
+6
+Y:(0-4)
+2
+Enter a valid value or don't play the game.
+X:(0-4)
+0
+Y:(0-4)
+2
++ + + + + 
++ + + + + 
+4 + + + + 
++ + + + + 
++ + + + + 
+
+X:(0-4)
+1
+Y:(0-4)
+4
+Congratulations! You escaped the graveyard without incident. // WIN 
+bash-4.2$ ./a.out
+Welcome to dodge the ghost!
+You win when you've dug up every grave that doesn't contain a ghost.
+Good luck!
+You'll need it...
+(Press enter to continue)
+
+How many graves wide should the graveyard be?(2-10)
+10
+How many graves long should the graveyard be?(2-10)
+10
+How many ghosts do you want in the graveyard?
+58
+
+
+
+
+
+
+
+
+
+
+
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+0 0 0 1 1 0 1 1 1 1 
+0 0 0 0 1 1 0 1 1 1 
+0 1 1 1 0 1 1 1 1 0 
+0 0 0 0 0 0 1 0 0 0 
+1 1 1 1 0 0 0 0 0 1 
+0 0 1 0 1 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+
+58
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
+
+X:(0-9)
+1
+Y:(0-9)
+1
++ + + + + + + + + + 
++ 8 + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
++ + + + + + + + + + 
+
+A ghost frightens you to death and then dies of embarrassment... // LOSE
+Better luck next time
+bash-4.2$ exit
+exit
+
+Script done on Thu 07 Nov 2019 10:32:08 PM PST
